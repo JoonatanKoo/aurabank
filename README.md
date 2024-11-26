@@ -1,4 +1,4 @@
-This is an iPhone shortcut based on
+aurabank is an iPhone shortcut based on
 Dabloon Bank(which was created by @canaan.g1 and
 @newdabloonbank). Instead of having
 dabloons, why not have aura?
