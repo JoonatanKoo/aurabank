@@ -3,3 +3,5 @@ Pre-release 1.0: First (and last) Pre-release.
 Version 1.0: better UpdateLog.
 
 Version 1.1: Added aura trasfer via messages.
+Sending aura via text message to oldet versions
+works, but isn't supported.
